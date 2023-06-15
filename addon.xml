@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.switchfm" name="Switch FM" version="0.1" provider-name="Switchfm.co.uk">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.requests" version="2.0.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="script.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Switch FM</summary>
+        <description lang="en_GB">Listen or watch Switch FM London Live on the kodi player.</description>
+        <website>https://switchfm.co.uk</website>
+        <source></source>
+        <license>GPL-3.0-or-later</license>
+        <platform>all</platform>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.jpg</fanart>
+            <clearlogo>resources/clearlogo.png</clearlogo>
+        </assets>
+    </extension>
+</addon>
