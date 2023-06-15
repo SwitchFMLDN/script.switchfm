@@ -2,12 +2,10 @@
 # script.switchfm
 Switch FM - Kodi Plugin
 
-
-## Contents
+## Repository Contents
 Switch FM - Kodi Plugin
 
 ## Switch FM London Links
-
 * [Website](https://switchfm.co.uk)
 * [Facebook](https://facebook.com/switchfmldn)
 * [Twitter](https://twitter.com/switchfmldn)
