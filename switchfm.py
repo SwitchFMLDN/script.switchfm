@@ -9,7 +9,7 @@ COVER_URL       = ''
 LIVE_DJ         = 'https://switchfm.co.uk/api/kodi/addon.php?action=DJ'
 AUDIO           = 'https://switchfm.co.uk/api/kodi/addon.php?action=stream'
 VIDEO           = 'https://switchfm.co.uk/api/kodi/addon.php?action=video'
-KEY_FILTER_RE = re.compile(r'[^\w\']+')
+KEY_FILTER_RE = re.compile(r'[^\w\']+') 
 
 UPDATE_TIMEOUT = 2.0
 
